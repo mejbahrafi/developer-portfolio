@@ -5,6 +5,9 @@ body{
 h1{
     font-size: 50px;
 }
+h2{
+    font-size: 35px;
+}
 .orange-color{
     color:orange;
 }
@@ -47,4 +50,12 @@ h1{
 }
 .colour{
     color: tomato;
+}
+.experience-item{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    box-shadow: 10px 10px 30px rgb(12, 185, 142);
+    border-radius: 10px;
 }
