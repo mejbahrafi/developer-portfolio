@@ -10,6 +10,7 @@ h1{
 }
 section{
     display: flex;
+  
 }
 .half-width{
     width: 50%;
@@ -33,4 +34,9 @@ section{
 section{
     height: 500px;
     padding-bottom: 150px;
+}
+.dream-area{
+    background-image: url(image/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
