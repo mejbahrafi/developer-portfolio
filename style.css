@@ -58,4 +58,22 @@ h2{
     padding-left: 20px;
     box-shadow: 10px 10px 30px rgb(12, 185, 142);
     border-radius: 10px;
+    border-left: 10px solid orange;
+}
+#web-dev-experience{
+    border-left: 7px solid;
+border-image:linear-gradient(tomato,orange);
+border-image-slice: 1;
+}
+
+#bacca-developer{
+    border-left: 7px solid;
+border-image:linear-gradient(blue,cyan);
+border-image-slice: 1;
+}
+footer p{
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 50px;
+    margin-top: 20px;
 }
